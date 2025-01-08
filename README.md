@@ -1,0 +1,3 @@
+Developed a robust classifier for distinguishing between fresh and rotten fruits, leveraging HOG (Histogram of Oriented Gradients) features from a dataset of 10,901 images. This innovative project combines advanced computer vision techniques with practical applications, including a simple price tagging system for real-world usability.
+
+HOG, a powerful feature extraction method, processes image gradients to detect distinct object shapes, enabling accurate classification. The system demonstrates the potential of automated quality assessment and pricing in agriculture and retail industries, with room for further enhancements in efficiency and functionality.
